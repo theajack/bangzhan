@@ -12,7 +12,6 @@ if(w<900){
 }
 J.ready(function(){
   
-
   J.id("mainWrapper").css("width",w_w+"px");
   J.class("m-item").css("padding-top",(h-middle_th*4)/2+"px");
   if(w<900){
